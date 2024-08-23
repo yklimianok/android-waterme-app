@@ -51,13 +51,10 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.waterme.ui.theme.WaterMeTheme
-import com.example.waterme.FIVE_SECONDS
-import com.example.waterme.ONE_DAY
 import com.example.waterme.R
-import com.example.waterme.SEVEN_DAYS
-import com.example.waterme.THIRTY_DAYS
 import com.example.waterme.data.DataSource
 import androidx.compose.ui.tooling.preview.Preview
+import com.example.waterme.FIVE_SECONDS
 import com.example.waterme.ONE_MINUTE
 import com.example.waterme.THREE_MINUTES
 import com.example.waterme.TWO_MINUTES
